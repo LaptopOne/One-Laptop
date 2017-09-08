@@ -34,3 +34,9 @@ body {
   padding: 1rem;
   color: #ffffff;
 }
+
+.custom-slider {
+  background: url('http://wiki.laptop.org/images/0/00/Galadima0.jpg');
+  margin: 0;
+  padding: 0;
+}
