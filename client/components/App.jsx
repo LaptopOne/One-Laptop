@@ -1,11 +1,12 @@
 import React from "react";
-import { NavigationBar } from "./NavigationBar/NavigationBar.jsx";
-import Footer from "./common/Footer.jsx";
-import DonationBanner from "./common/DonationBanner.jsx";
+
+import { NavigationBar } from '../common/NavigationBar/NavigationBar.jsx';
+import DonationBanner from '../common/DonationBanner/DonationBanner.jsx';
+import Footer from '../common/Footer.jsx';
 
 const App = () => {
     return(
-      <div className="container">
+      <div>
         <NavigationBar />
         <h1> Hello World </h1>
         <DonationBanner />

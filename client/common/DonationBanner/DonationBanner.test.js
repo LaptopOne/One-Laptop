@@ -1,7 +1,8 @@
 import React from 'react';
 import expect from 'expect';
 import { shallow } from 'enzyme';
-import DonationBanner from '../../components/common/DonationBanner.jsx';
+
+import DonationBanner from '../DonationBanner/DonationBanner.jsx';
 
 /**
  * 
