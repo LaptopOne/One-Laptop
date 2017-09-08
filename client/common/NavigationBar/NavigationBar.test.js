@@ -2,7 +2,8 @@
 import expect from 'expect';
 import React from 'react';
 import { shallow } from 'enzyme';
-import { NavigationBar } from './NavigationBar.jsx';
+
+import { NavigationBar } from '../NavigationBar/NavigationBar.jsx';
 
 /**
  * This function setup the component
